@@ -1,4 +1,4 @@
-Below are the commands to run the repo. All pathes are viable for my system only.
+Below are the commands to run the repo (MacOS). All pathes are viable for my system only.
 
 compilation of cpp file:
 ```
